@@ -1,0 +1,4 @@
+/* Project-specific tweaks live in index.css as tokens. Keep this minimal. */
+#root {
+  display: block;
+}
